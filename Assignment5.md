@@ -1,6 +1,6 @@
 # My Result Demo after 10000 iterations
 
-![](https://ai-studio-static-online.cdn.bcebos.com/bdc1229dee764cd38dac357afcf16df611d0d94ee96c48c1a3cf4b19686d97f9)
+![](https://raw.githubusercontent.com/franva/PaddleGANNIU/main/result.png)
 
 
 # 七日课 大作业：实现超分
