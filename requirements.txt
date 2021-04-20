@@ -1,1 +1,6 @@
 ppgan
+paddleclas
+paddleseg
+paddledet
+laddlex
+visualdl
